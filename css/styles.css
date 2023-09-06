@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+html {
+    background-color: rgb(221, 221, 221);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.container {
+    background-color: #BFA10B;
+    max-width: 1100px;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    margin: 5px;
+}
+
+.header p {
+    margin: 5px;
+}
+
+.main-image {
+    text-align: center;
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.who-is {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dashed #8e892b;
+    border-bottom: 1px dashed #8e892b;
+}
+
+.early-career {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 1px dashed #8e892b;
+}
+
+.quotes-container {
+    background-color: rgb(221, 221, 221);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.curiosities-container {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dashed #8e892b;
+    border-bottom: 1px dashed #8e892b;
+}
+
+.curiosities-container h2 {
+    margin-bottom: 25px;
+}
+
+.secondary-image {
+    text-align: center;
+    margin-top: 30px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.rock-in-rio-2022 {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dashed #8e892b;
+    border-bottom: 1px dashed #8e892b;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 4, 255);
+}
